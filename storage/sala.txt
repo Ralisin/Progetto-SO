@@ -1,0 +1,17 @@
+6 -> File
+12 -> Posti
+xxxxxoxxxxxx -> Sala
+ooooxooooooo -> Sala
+oooxxooooooo -> Sala
+ooooooxxxooo -> Sala
+oooooooooooo -> Sala
+oooooooooooo -> Sala
+xxxx=a1-3
+xxxx=e5-1
+xxxx=e10-1
+xxxx=c4-2
+xxxx=d7-3
+
+struttura codice prenotazioni:
+    dataoracodiceunivoco
+    aaaammddhhmmccxxxx -> aaaa/mm/dd data, hh:mm orario spettacolo, xxxx codice univoco

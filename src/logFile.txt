@@ -1,0 +1,16 @@
+Cinema programming sent to socket 5
+
+Cinema programming sent to socket 5
+
+Cinema seats sent to socket 5
+
+Ticket reserved, socket 5
+
+Error deleting reservation, socket 5
+
+Client: 5. Code received: CLIENT_EXIT
+
+Ticket deleted, socket 6
+
+Client: 6. Code received: CLIENT_EXIT
+
