@@ -1,9 +1,8 @@
-
 # Progetto SO 22/23
 
 Specifica progetto:
 
-```bash
+```
 Realizzazione di un sistema di prenotazione posti per una sala
 cinematografica. Un processo su una macchina server gestisce una mappa di
 posti per una sala cinematografica. Ciascun posto e' caratterizzato da un
