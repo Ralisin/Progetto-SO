@@ -1,7 +1,9 @@
-# Progetto SO uniroma2 22/23
 
+# Progetto SO 22/23
 
-# Specifica:
+Specifica progetto:
+
+```bash
 Realizzazione di un sistema di prenotazione posti per una sala
 cinematografica. Un processo su una macchina server gestisce una mappa di
 posti per una sala cinematografica. Ciascun posto e' caratterizzato da un
@@ -22,3 +24,4 @@ Si precisa che lo studente e' tenuto a realizzare sia il client che il
 server.
 
 Il server deve poter gestire le richieste dei client in modo concorrente.                   
+```
